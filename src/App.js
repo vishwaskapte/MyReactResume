@@ -1,3 +1,4 @@
+import Left from "./Components/Left";
 
 function App() {
   return (
@@ -16,7 +17,7 @@ function App() {
               </a>
             </li>
             <li class="nav-item dropdown pe-3">
-              <a class="nav-link nav-profile d-flex align-items-center pe-0" href="#" data-bs-toggle="dropdown">
+              <a class="nav-link nav-profile d-flex align-items-center pe-0">
                 <img src="assets/img/profile-img.jpg" alt="Profile" class="rounded-circle" />
                 <span class="d-none d-md-block dropdown-toggle ps-2">Vishwas Kapte</span>
               </a>
@@ -25,7 +26,7 @@ function App() {
         </nav>
       </header>
       <main id="main" class="main">
-        
+          <Left />
       </main>
       <footer id="footer" class="footer">
         <div class="copyright">
