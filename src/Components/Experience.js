@@ -21,10 +21,10 @@ export default function Experience() {
                                           <div class="accordion-body">
                                               <div class="card">
                                                   <div class="card-header">
-                                                      <a href="#" class="instagram"><i class="bx bxs-calendar"> 06/2021 - Present</i></a>
+                                                      <i class="bx bxs-calendar"> 06/2021 - Present</i>
                                                   </div>
                                                   <div class="card-body">
-                                                    <p>
+                                                    <p><br/>
                                                       Designed and developed customer-facing applications using .NET Framework/Core resulting in increased efficiency and
                                                       productivity. 
                                                     </p>
@@ -55,7 +55,7 @@ export default function Experience() {
                                                       </ul>
                                                   </div>
                                                   <div class="card-footer">
-                                                      <a href="#" class="instagram"><i class="bx bxs-home"> Pune, India</i></a>
+                                                      <i class="bx bxs-home"> Pune, India</i>
                                                   </div>
                                               </div>
                                           </div>
@@ -69,7 +69,37 @@ export default function Experience() {
                                       </h2>
                                       <div id="collapseFour" class="accordion-collapse collapse show" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                           <div class="accordion-body">
-                                              <strong>This is the first item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                          <div class="card">
+                                                  <div class="card-header">
+                                                      <i class="bx bxs-calendar"> 08/2019 - 06/2021</i>
+                                                  </div>
+                                                  <div class="card-body">
+                                                    <p><br/>
+                                                        Developed and maintained web applications resulting in increased efficiency and productivity.
+                                                    </p>
+                                                      <ul class="list-group">
+                                                          <li class="list-group-item">
+                                                                <i class="bi bi-star me-1 text-success"></i>
+                                                                Designed and developed a web application using ASP.NET MVC resulting in a 25% increase in user engagement
+                                                          </li>
+                                                          <li class="list-group-item">
+                                                                <i class="bi bi-star me-1 text-success"></i>
+                                                                Implemented Git source control for team collaboration resulting in a 50% reduction in merge conflicts.
+                                                          </li>
+                                                          <li class="list-group-item">
+                                                                <i class="bi bi-star me-1 text-success"></i>
+                                                                Involved in different agile ceremonies like backlog refinement, sprint planning, sprint retrospective, sprint demo etc
+                                                          </li>
+                                                           <li class="list-group-item">
+                                                                <i class="bi bi-star me-1 text-success"></i>
+                                                                Designed and implemented unit testing resulting in a 70% increase in code coverage.
+                                                            </li>
+                                                      </ul>
+                                                  </div>
+                                                  <div class="card-footer">
+                                                      <i class="bx bxs-home"> Pune, India</i>
+                                                  </div>
+                                              </div>
                                           </div>
                                       </div>
                                   </div>
@@ -81,7 +111,21 @@ export default function Experience() {
                                       </h2>
                                       <div id="collapseFive" class="accordion-collapse collapse show" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                           <div class="accordion-body">
-                                              <strong>This is the first item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                          <div class="card">
+                                                  <div class="card-header">
+                                                      <i class="bx bxs-calendar"> 02/2015 - 08/2019</i>
+                                                  </div>
+                                                  <div class="card-body">
+                                                    <p>
+                                                        <br/>
+                                                        Developed and maintained web applications resulting in increased efficiency and productivity.
+                                                    </p>
+                                                      
+                                                  </div>
+                                                  <div class="card-footer">
+                                                      <i class="bx bxs-home"> Pune, India</i>
+                                                  </div>
+                                              </div>
                                           </div>
                                       </div>
                                   </div>
@@ -93,7 +137,21 @@ export default function Experience() {
                                       </h2>
                                       <div id="collapseSix" class="accordion-collapse collapse show" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                                           <div class="accordion-body">
-                                              <strong>This is the first item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                          <div class="card">
+                                                  <div class="card-header">
+                                                      <i class="bx bxs-calendar"> 12/2013 - 02/2015</i>
+                                                  </div>
+                                                  <div class="card-body">
+                                                    <p>
+                                                        <br/>
+                                                        Developed and maintained web applications resulting in increased efficiency and productivity.
+                                                    </p>
+                                                      
+                                                  </div>
+                                                  <div class="card-footer">
+                                                      <i class="bx bxs-home"> Nagpur, India</i>
+                                                  </div>
+                                              </div>
                                           </div>
                                       </div>
                                   </div>
@@ -105,7 +163,21 @@ export default function Experience() {
                                       </h2>
                                       <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                           <div class="accordion-body">
-                                              <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                          <div class="card">
+                                                  <div class="card-header">
+                                                      <i class="bx bxs-calendar"> 01/2012 - 12/2013</i>
+                                                  </div>
+                                                  <div class="card-body">
+                                                    <p>
+                                                        <br/>
+                                                        Developed and maintained web applications resulting in increased efficiency and productivity.
+                                                    </p>
+                                                      
+                                                  </div>
+                                                  <div class="card-footer">
+                                                      <i class="bx bxs-home"> Nagpur, India</i>
+                                                  </div>
+                                              </div>
                                           </div>
                                       </div>
                                   </div>
@@ -117,7 +189,21 @@ export default function Experience() {
                                       </h2>
                                       <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                           <div class="accordion-body">
-                                              <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                          <div class="card">
+                                                  <div class="card-header">
+                                                      <i class="bx bxs-calendar"> 06/2011 - 01/2012</i>
+                                                  </div>
+                                                  <div class="card-body">
+                                                    <p>
+                                                        <br/>
+                                                        Developed and maintained web applications resulting in increased efficiency and productivity.
+                                                    </p>
+                                                      
+                                                  </div>
+                                                  <div class="card-footer">
+                                                      <i class="bx bxs-home"> Nagpur, India</i>
+                                                  </div>
+                                              </div>
                                           </div>
                                       </div>
                                   </div>
